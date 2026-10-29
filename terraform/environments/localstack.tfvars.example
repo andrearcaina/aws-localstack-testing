@@ -1,0 +1,10 @@
+aws_region        = "REPLACE_ME"
+
+ec2_instance_name = "REPLACE_ME"
+ec2_instance_type = "REPLACE_ME"
+ec2_ami_id        = "REPLACE_ME"
+
+enable_eks       = false
+eks_cluster_name = "REPLACE_ME"
+eks_role_arn     = "REPLACE_ME"
+eks_subnet_ids   = []
